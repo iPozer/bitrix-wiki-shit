@@ -10,5 +10,5 @@
 
 
 # Email #
-[Email](https://github.com/st7art22/bitrix-wiki-shit/blob/master/html/mail.md)
+[Email](https://github.com/st7art22/bitrix-wiki-shit/blob/master/mail.md)
 тут будет всякое в процессе работы
