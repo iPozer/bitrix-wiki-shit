@@ -8,4 +8,7 @@
 
 * [плавающий блок внутри контейнера](https://github.com/st7art22/bitrix-wiki-shit/blob/master/html/position-sticky.md)
 
+
+# Email #
+[Email](https://github.com/st7art22/bitrix-wiki-shit/blob/master/html/mail.md)
 тут будет всякое в процессе работы
